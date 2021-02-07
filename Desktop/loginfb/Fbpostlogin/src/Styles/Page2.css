@@ -1,0 +1,43 @@
+.page2body {
+	border-radius: 14px;
+	width: 400px;
+	height: 100vh;
+	display: flex;
+
+	justify-content: center;
+	align-items: center;
+	background-color: #f0f2f5;
+}
+.page2 {
+	background-color: white;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.img1 {
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	overflow: "hidden";
+	border-width: 3px;
+	background-color: red;
+}
+
+#bt2 {
+	width: 396px;
+	height: 29px;
+	border-radius: 6px;
+	border-width: 0px;
+	margin-left: 2px;
+	color: white;
+	background-color: #1877f2;
+}
+.comntsec {
+	height: 100px;
+	width: 98%;
+	outline: none;
+
+	border: none;
+	/* background-color: #f0f2f5; */
+}
